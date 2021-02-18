@@ -8,9 +8,9 @@ eleventyNavigation:
 ---
 
 <div class="container mt-4">
-    <h1>Basic Javascript Tasks</h1>
+  <h1>Basic Javascript Tasks</h1>
 
-    <p>Open the console to view the results</p>
+Open the console to view the results
 </div>
 <script>
   /* trying out different ways of outputting messages 
@@ -21,7 +21,7 @@ eleventyNavigation:
     // write message to console
     console.log('Alex is cool - well maybe, maybe not')
     // append message to body tag - not a good idea really!
-    document.write('<p>Alex is cool - well maybe, maybe not</p>')
+    document.write('Alex is cool - well maybe, maybe not')
 
     var message = "I am fed up with Alex is cool";
     alert(message);
