@@ -7,10 +7,10 @@ eleventyNavigation:
   order: 5
 ---
 
-<div class="container mt-4">
+<div class="container mt-5">
   <h1>Basic Javascript Tasks</h1>
 
-Open the console to view the results
+  <p>Open the console to view the results</p>
 </div>
 <script>
   /* trying out different ways of outputting messages 
